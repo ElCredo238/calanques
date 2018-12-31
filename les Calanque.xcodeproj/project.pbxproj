@@ -60,8 +60,6 @@
 				E254F4A821DADB2800A1E28D /* View */,
 				E254F4A921DADB3200A1E28D /* Contoller */,
 				E254F49321DADA0800A1E28D /* AppDelegate.swift */,
-				E254F49521DADA0800A1E28D /* FirstViewController.swift */,
-				E254F49721DADA0800A1E28D /* SecondViewController.swift */,
 				E254F49921DADA0800A1E28D /* ++.storyboard */,
 				E254F49C21DADA0A00A1E28D /* Assets.xcassets */,
 				E254F49E21DADA0A00A1E28D /* LaunchScreen.storyboard */,
@@ -87,6 +85,8 @@
 		E254F4A921DADB3200A1E28D /* Contoller */ = {
 			isa = PBXGroup;
 			children = (
+				E254F49521DADA0800A1E28D /* FirstViewController.swift */,
+				E254F49721DADA0800A1E28D /* SecondViewController.swift */,
 			);
 			path = Contoller;
 			sourceTree = "<group>";

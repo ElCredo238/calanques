@@ -16,6 +16,8 @@
 		E254F4AF21DAE5F800A1E28D /* ControllerAvecTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E254F4AE21DAE5F800A1E28D /* ControllerAvecTableView.swift */; };
 		E254F4B121DAE61F00A1E28D /* ControllerAvecCarte.swift in Sources */ = {isa = PBXBuildFile; fileRef = E254F4B021DAE61F00A1E28D /* ControllerAvecCarte.swift */; };
 		E254F4B321DAE64700A1E28D /* TableViewIntegreeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E254F4B221DAE64700A1E28D /* TableViewIntegreeController.swift */; };
+		E254F4B521DB936100A1E28D /* calanqueCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E254F4B421DB936100A1E28D /* calanqueCell.swift */; };
+		E254F4B721DB99D800A1E28D /* monImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E254F4B621DB99D800A1E28D /* monImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		E254F4AE21DAE5F800A1E28D /* ControllerAvecTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControllerAvecTableView.swift; sourceTree = "<group>"; };
 		E254F4B021DAE61F00A1E28D /* ControllerAvecCarte.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControllerAvecCarte.swift; sourceTree = "<group>"; };
 		E254F4B221DAE64700A1E28D /* TableViewIntegreeController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewIntegreeController.swift; sourceTree = "<group>"; };
+		E254F4B421DB936100A1E28D /* calanqueCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calanqueCell.swift; sourceTree = "<group>"; };
+		E254F4B621DB99D800A1E28D /* monImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = monImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +90,8 @@
 		E254F4A821DADB2800A1E28D /* View */ = {
 			isa = PBXGroup;
 			children = (
+				E254F4B421DB936100A1E28D /* calanqueCell.swift */,
+				E254F4B621DB99D800A1E28D /* monImage.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -174,7 +180,9 @@
 				E254F49421DADA0800A1E28D /* AppDelegate.swift in Sources */,
 				E254F4AD21DAE4BA00A1E28D /* CalanqueCollection.swift in Sources */,
 				E254F4B121DAE61F00A1E28D /* ControllerAvecCarte.swift in Sources */,
+				E254F4B521DB936100A1E28D /* calanqueCell.swift in Sources */,
 				E254F4AF21DAE5F800A1E28D /* ControllerAvecTableView.swift in Sources */,
+				E254F4B721DB99D800A1E28D /* monImage.swift in Sources */,
 				E254F4AB21DAE14900A1E28D /* Calanques.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
